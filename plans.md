@@ -3,7 +3,7 @@
 ## Preface
 
 Hello. My name is Irina, and I'm a fulltime freelance frontend developer.
-#100DaysOfCode helped me to bring my coding skills onto next level during my first round, reach out great people, become a part of the community. 
+**#100DaysOfCode** helped me to bring my coding skills onto next level during my first round, reach out great people, become a part of the community. 
 I learned about 
 - tooling and automation with *Gulp* and *Webpack*, 
 - *Prettier* and *ESLint*, 
