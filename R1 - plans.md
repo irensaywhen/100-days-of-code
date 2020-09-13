@@ -2,7 +2,7 @@
 
 ## Preface
 
-Hello. My name is Irina, and I'm a fulltime freelance frontend developer.
+Hello. My name is Irina, and I'm a fulltime freelance frontend developer. You might wonder, why I call it my first Round while it is the second one. That's simple. I wasn't making a structured, well-written log during my first round. That's a shame. That's why I want to make it my first well-structures and consistent round. 
 **#100DaysOfCode** helped me to bring my coding skills onto next level during my first round, reach out great people, become a part of the community. 
 I learned about 
 - tooling and automation with *Gulp* and *Webpack*, 
@@ -13,7 +13,7 @@ I learned about
 - *Flask* and different template engines
 - *MySQL*
 
-It was a tough journey, especially because it was my first turn. I didn't spend much time on planning, nor keeped consistent log.
+It was a tough journey, especially because it was my first turn. I didn't spend much time on planning.
 Now, I want to become even better developer, and do it in the most consistent way possible. 
 
 Check my plans and goals for the current round!
